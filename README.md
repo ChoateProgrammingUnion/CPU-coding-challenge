@@ -34,6 +34,18 @@ The only measurement on how well you have performed in this challenge are the th
 
 Your code will be run using Python 3.7.0 with no third-party library installed. All challenges can be solved without importing any library. 
 
+You can run the test cases by 
+
+```sh
+cd oop_challenge
+python3 .
+```
+or 
+```sh
+cd functional_challenge
+python3 .
+```
+depends on which challenge you choose to take part in. The program is tested only with Python 3.7. However, it should work with Python 3.3+.
 
 Remember, when in doubt, look at Python documentation. 
 
