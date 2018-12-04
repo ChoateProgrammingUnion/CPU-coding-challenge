@@ -30,6 +30,8 @@ The challenge will be available at December 4, 6:30 p.m. It will be open until t
 
 You may work on the challenge for however long you want. When you believe that you have done your best on the challenge, send your codes (`functional_challenge.py` or `oop_challenge.py`) to `pkqxdd#1358` on Discord or `jwang20@choate.edu`. If you choose to submit via email, you should use `CPU Coding Challenge Submission` as your email subject. You may submit your code only **once**.
 
+# Test Cases
+
 The only measurement on how well you have performed in this challenge are the the number of test cases you passed, regardless of your method. The same test cases as the ones come with the challenge in `test.py` will be used upon your submission. 
 
 Your code will be run using Python 3.7.0 with no third-party library installed. All challenges can be solved without importing any library. 
