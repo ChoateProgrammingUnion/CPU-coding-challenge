@@ -10,12 +10,12 @@ There are two parts of the challenge, Object Oriented Programming and Functional
 	- 10 questions
 	- designed for beginners
 	- 1 attendance point will be awarded if your code pass at least 6 test cases
-	- 2 attendance points will be awarded if your code pass all 10 test cases (does not stack with previous one)
+	- 2 attendance points will be awarded if your code pass all 10 test cases (does not stack on previous one)
 - Object Oriented Programming
 	- 9 levels
 	- designed for advanced programmers
 	- 3 attendance points will be awarded if you complete at least 6 levels
-	- 9 attendance points will be awarded if your code pass all 50 test cases (does not stack with previous one)
+	- 9 attendance points will be awarded if your code pass all 50 test cases (does not stack on previous one)
 	- the first person who completes the challenge will recieve an additional $20 award
 	- the second person who completes the challenge will recieve an additional $10 award
 	- the third person who completes the challenge will recieve an additional $5 award
