@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Choate Programming Union Coding Challenge. The purpose of this challenge is for you to gain an insight of your understanding of computational thinking ideology as well as your familiarity with language Python. We recognize that it is impossible for us to cover anything but the superficial stuff during the weekly meeting due to time constraints, so we have carefully design the challenges to motivate you to learn through programming communities such as Stackoverflow. Independent online researching skill is crucial for you as a programmer, and we hope you would develop the skill through the course of working on this challenge. 
+Welcome to the Choate Programming Union Coding Challenge. The purpose of this challenge is for you to gain an insight of your understanding of computational thinking ideology as well as your familiarity with language Python. We recognize that it is hard for us to go in depth during weekly meetings due to the time constraints, so we have carefully curated the challenges to motivate you to learn through programming communities outside Choate such as Stackoverflow. Independent online researching skills are crucial for you as a programmer, we hope to train these skills through this programming challenge. 
 
 There are two parts of the challenge, Object Oriented Programming and Functional Programming. You may complete both of them if you want, but you may only choose one part of the challenge to submit upon completion. There is, of course, a prize associated with the completion of all challenges.
 
@@ -28,13 +28,13 @@ If you are not familiar with the concept of our attendance point system, here is
 ## Submission
 The challenge will be available at December 4, 6:30 p.m. It will be open until the first club meeting after the winter break. 
 
-You may work on the challenge for however long you want. When you believe that you have done your best on the challenge, send your codes (`functional_challenge.py` or `oop_challenge.py`) to `pkqxdd#1358` on Discord or `jwang20@choate.edu`. If you choose to submit via email, you should use `CPU Coding Challenge Submission` as your email subject. You may submit your code only **once**.
+You may work on the challenge for however long you want. When you believe that you have done your best on the challenge, send your code (`functional_challenge.py` or `oop_challenge.py`) to `pkqxdd#1358` on Discord or `jwang20@choate.edu`. If you choose to submit via email, you should use `CPU Coding Challenge Submission` as your email subject. You may submit your code only **once**.
 
 ## Test Cases
 
-The only measurement on how well you have performed in this challenge are the the number of test cases you passed, regardless of your method. The same test cases as the ones come with the challenge in `test.py` will be used upon your submission. 
+The only measurement on how well you have performed in this challenge are the the number of test cases you passed, regardless of your method. The same test cases as the ones that come with the challenge in `test.py` will be used upon your submission. 
 
-Your code will be run using Python 3.7.0 with no third-party library installed. All challenges can be solved without importing any library. 
+Your code will be run using Python 3.7.0 with no third-party library installed. All challenges can be solved without importing any libraries. 
 
 You can run the test cases by 
 
@@ -47,13 +47,13 @@ or
 cd functional_challenge
 python3 .
 ```
-depends on which challenge you choose to take part in. The program is tested only with Python 3.7. However, it should work with Python 3.3+.
+depending on which challenge you choose to take part in. The program is tested only with Python 3.7. However, it should work with Python 3.3+.
 
 ## Cooperations
 
-You may help each other debug their program. However, you should not discuss with other students on how to approach each individual challenge. If you are really stuck, you can ask for help in `#help` channel of our Discord server. A club leader will answer your question if they see fit. 
+You may help others debug their programs. However, you should not discuss with other students on how to approach each individual challenge. If you are really stuck, you can ask for help in `#help` channel of our Discord server. A club leader will answer your question.
 
-We really spent a lot of time developing this challenge so please respect our effort. We hope you will learn something new when you by doing this challenge.
+We really spent a lot of time developing this challenge so please respect our efforts. We hope you will learn something new  by doing this challenge.
 
 Remember, when in doubt, look at Python documentation. 
 
