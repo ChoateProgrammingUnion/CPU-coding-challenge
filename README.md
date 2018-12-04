@@ -30,7 +30,7 @@ The challenge will be available at December 4, 6:30 p.m. It will be open until t
 
 You may work on the challenge for however long you want. When you believe that you have done your best on the challenge, send your codes (`functional_challenge.py` or `oop_challenge.py`) to `pkqxdd#1358` on Discord or `jwang20@choate.edu`. If you choose to submit via email, you should use `CPU Coding Challenge Submission` as your email subject. You may submit your code only **once**.
 
-# Test Cases
+## Test Cases
 
 The only measurement on how well you have performed in this challenge are the the number of test cases you passed, regardless of your method. The same test cases as the ones come with the challenge in `test.py` will be used upon your submission. 
 
@@ -49,7 +49,7 @@ python3 .
 ```
 depends on which challenge you choose to take part in. The program is tested only with Python 3.7. However, it should work with Python 3.3+.
 
-# Cooperations
+## Cooperations
 
 You may help each other debug their program. However, you should not discuss with other students on how to approach each individual challenge. If you are really stuck, you can ask for help in `#help` channel of our Discord server. A club leader will answer your question if they see fit. 
 
