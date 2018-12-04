@@ -14,7 +14,7 @@ There are two parts of the challenge, Object Oriented Programming and Functional
 - Object Oriented Programming
 	- 9 questions
 	- designed for advanced programmers
-	- 9 attendance points will be awarded if your code pass all 38 test cases
+	- 9 attendance points will be awarded if your code pass all 50 test cases
 
 If you are not familiar with the concept of our attendance point system, here is the general outline:
 
