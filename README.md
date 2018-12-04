@@ -32,7 +32,7 @@ If you are not familiar with the concept of our attendance point system, here is
 ## Submission
 The challenge will be available at December 4, 6:30 p.m. It will be open until the first club meeting after the winter break. 
 
-You may work on the challenge for however long you want. When you believe that you have done your best on the challenge, send your code (`functional_challenge.py` or `oop_challenge.py`) to `pkqxdd#1358` on Discord or `jwang20@choate.edu`. If you choose to submit via email, you should use `CPU Coding Challenge Submission` as your email subject. You may submit your code only **once**.
+You may work on the challenge for however long you want. When you believe that you have done your best on the challenge, send your code (`functional_challenge.py` or `oop_challenge.py`) to `pkqxdd#1358` on Discord or `jwang20@choate.edu`. If you choose to submit via email, you should use `CPU Coding Challenge Submission` as your email subject. You may submit your code only **once**. Your code will be tested by us on our machines, so there's no point trying to change `test.py` or `__main__.py` in working directory.
 
 ## Test Cases
 
@@ -52,6 +52,8 @@ cd functional_challenge
 python3 .
 ```
 depending on which challenge you choose to take part in. The program is tested only with Python 3.7. However, it should work with Python 3.3+.
+
+Note that for better display, test cases for challenges you have not attempted are skipped. To get a prize, make sure that you have removed all `raise ChallengeNotAttempted` in your file and that the unittest passes for all test cases.
 
 ## Cooperations
 
