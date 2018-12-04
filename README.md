@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Choate Programming Union Coding Challenge. The purpose of this challenge is for you to gain an insight of your understanding of computational thinking ideology as well as your familiarity with language Python. We recognize that it is impossible for us to cover anything but the superficial stuff during the weekly meeting due to time constraints, so we have carefully design the challenges to motivate you to learn through programming communities such as Stackoverflow. Independent online researching skill is crucial for you as a programmer, and we hope you would develop the skill through the course of completing this challenge. 
+Welcome to the Choate Programming Union Coding Challenge. The purpose of this challenge is for you to gain an insight of your understanding of computational thinking ideology as well as your familiarity with language Python. We recognize that it is impossible for us to cover anything but the superficial stuff during the weekly meeting due to time constraints, so we have carefully design the challenges to motivate you to learn through programming communities such as Stackoverflow. Independent online researching skill is crucial for you as a programmer, and we hope you would develop the skill through the course of working on this challenge. 
 
 There are two parts of the challenge, Object Oriented Programming and Functional Programming. You may complete both of them if you want, but you may only choose one part of the challenge to submit upon completion. There is, of course, a prize associated with the completion of all challenges.
 
@@ -48,6 +48,12 @@ cd functional_challenge
 python3 .
 ```
 depends on which challenge you choose to take part in. The program is tested only with Python 3.7. However, it should work with Python 3.3+.
+
+# Cooperations
+
+You may help each other debug their program. However, you should not discuss with other students on how to approach each individual challenge. If you are really stuck, you can ask for help in `#help` channel of our Discord server. A club leader will answer your question if they see fit. 
+
+We really spent a lot of time developing this challenge so please respect our effort. We hope you will learn something new when you by doing this challenge.
 
 Remember, when in doubt, look at Python documentation. 
 
