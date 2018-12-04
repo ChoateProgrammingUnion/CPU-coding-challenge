@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to CPU Coding Challenge. The purpose of this challenge is for you to gain an insight of your understanding of computational thinking ideology as well as your familiarity with language Python. We recognize that it is impossible for us to cover anything but the superficial stuff during the weekly meeting due to time constraints, so we have carefully design the challenges to motivate you to learn through programming communities such as Stackoverflow. Independent online researching skill is crucial for you as a programmer, and we hope you would develop the skill through the course of completing this challenge. 
+Welcome to the Choate Programming Union Coding Challenge. The purpose of this challenge is for you to gain an insight of your understanding of computational thinking ideology as well as your familiarity with language Python. We recognize that it is impossible for us to cover anything but the superficial stuff during the weekly meeting due to time constraints, so we have carefully design the challenges to motivate you to learn through programming communities such as Stackoverflow. Independent online researching skill is crucial for you as a programmer, and we hope you would develop the skill through the course of completing this challenge. 
 
 There are two parts of the challenge, Object Oriented Programming and Functional Programming. You may complete both of them if you want, but you may only choose one part of the challenge to submit upon completion. There is, of course, a prize associated with the completion of all challenges.
 
