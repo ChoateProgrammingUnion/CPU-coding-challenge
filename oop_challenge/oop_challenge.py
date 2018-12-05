@@ -231,18 +231,19 @@ class SuperDictionary:
     It supports all regular (challenge 2) dictionary operations
     
     d=SuperDictionary()
+    item = random.randint(1,100)
     
-    d[key]
-    d[key] = item
-    del d[key]
+    d["key"]
+    d["key"] = item
+    del d["key"]
     
     For users' convenience, there is no difference whether to access the data on the SuperDictionary,
     or on an instance of the class, as they only ever need one SuperDictionary.
     
     d=SuperDictionary()
-    d[key] = item
-    d[key] == item
-    SuperDictionary[key] == item
+    d["key"] = item
+    d["key"] == item
+    SuperDictionary["key"] == item
     
     It also supports Javascript-like (challenge 3) attribute accessing.
     
