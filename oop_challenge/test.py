@@ -367,6 +367,7 @@ class Level7(unittest.TestCase):
         # replace the __new__ method in case it was overridden
         
         self.assertIs(SingletonWithMeta(), SingletonWithMeta())
+        self.assertIs(type(SingletonWithMeta()),SingletonWithMeta)
     
     def test_meta(self):
         from oop_challenge import SingletonWithMeta
