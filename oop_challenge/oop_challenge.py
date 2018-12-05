@@ -54,7 +54,12 @@ class Person:
     p.introduction == "Hi my name is Mike and I'm 18 years old"
     str(p) == "Mike, age 18"
     
-    Age will always be an integer greater than or equals to 2.
+    Reassignment should change the introduction
+    
+    p.name = "Jerry"
+    p.introduction == "Hi my name is Jerry and I'm 18 years old"
+    
+    Age will always be an integer greater than or equals to 2 (meaning it's always plural).
     
     Hint: @property
     """
@@ -248,7 +253,7 @@ class SuperDictionary:
     d["key"] ==  SuperDictionary.key
     d["key"] ==  SuperDictionary["key"]
     d.key == SuperDictionary.key
-    d.key == SuperDictionary.key
+    d.key == SuperDictionary["key"]
     
     The SuperDictionary also supports attributes assignment.
     This means the following four statements have the same effect
