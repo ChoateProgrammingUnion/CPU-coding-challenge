@@ -336,6 +336,7 @@ class Level6(unittest.TestCase):
     def test_identity(self):
         from oop_challenge import SingletonWithNew
         self.assertIs(SingletonWithNew(), SingletonWithNew())
+        self.assertIs(type(SingletonWithNew()),SingletonWithNew)
     
     def test_meta(self):
         from oop_challenge import SingletonWithNew
