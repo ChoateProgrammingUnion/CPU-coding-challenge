@@ -394,6 +394,7 @@ class Level8(unittest.TestCase):
         from oop_challenge import SuperDictionary
         
         self.assertIs(SuperDictionary(), SuperDictionary())
+        self.assertIs(type(SuperDictionary()),SuperDictionary)
     
     def test_attribute_access(self):
         
