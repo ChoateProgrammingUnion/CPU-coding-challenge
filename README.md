@@ -51,7 +51,7 @@ or
 cd functional_challenge
 python3 .
 ```
-depending on which challenge you choose to take part in. The program is tested only with Python 3.7. However, it should work with Python 3.3+.
+depending on which challenge you choose to take part in. The program is tested only with Python 3.7. However, it should work with Python 3.6 as well.
 
 Note that for better display, test cases for challenges you have not attempted are skipped. To get a prize, make sure that you have removed all `raise ChallengeNotAttempted` in your file and that the unittest passes for all test cases.
 
